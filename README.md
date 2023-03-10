@@ -11,6 +11,6 @@ In this chapter we will check your skill to checkkout a new banch and make a pul
 
 ① How was the skill check (I would be grateful for your opinion).
 
-A. 
+A. I'm already familiar with git commands for pushing, committing changes and fix conflicts.
 
 This is the end. Thank you for your cooporation:tada:
